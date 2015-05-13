@@ -1,0 +1,19 @@
+
+greenButton.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+greenButton
+  rotate: false
+  xy: 1, 323
+  size: 640, 320
+  orig: 640, 320
+  offset: 0, 0
+  index: -1
+greenButtonPressed
+  rotate: false
+  xy: 1, 1
+  size: 640, 320
+  orig: 640, 320
+  offset: 0, 0
+  index: -1
